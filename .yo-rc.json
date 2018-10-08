@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.6.0",
+    "libraryName": "skills-to-pptcv-webpart",
+    "libraryId": "2d53d5f5-2e4f-4361-a2f4-754d84122254",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

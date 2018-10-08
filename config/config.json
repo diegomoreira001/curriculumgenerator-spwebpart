@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/skillsToPptCv/SkillsToPptCvWebPart.js",
+      "manifest": "./src/webparts/skillsToPptCv/SkillsToPptCvWebPart.manifest.json",
+      "outputPath": "./dist/skills-to-ppt-cv-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "SkillsToPptCvWebPartStrings": "webparts/skillsToPptCv/loc/{locale}.js"
+  }
+}
