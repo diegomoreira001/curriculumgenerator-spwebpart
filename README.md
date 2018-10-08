@@ -22,9 +22,11 @@ This package produces the following:
 
 ### Build options
 
+* gulp trust-dev-cert //Enables dev SSL Certs at localhost
 * gulp clean - TODO
 * gulp test - NOT WORKING
-* NODE_NO_HTTP2=1 gulp serve
+* NODE_NO_HTTP2=1 gulp serve //Allows serving content 
+through SSL with latest NodeJS
 * gulp bundle - TODO
 * gulp package-solution - TODO
 
